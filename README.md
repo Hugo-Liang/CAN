@@ -1,11 +1,7 @@
 # CAN
 Replication package for the paper entitled: Automatic Identification of Extrinsic Bug Reports for Just-In-Time Bug Prediction
 
-
-### Data Preparation
-
-
-### Environment Settings
+### Environment Settings and Preparation
 * GPU: Nvidia GeForce RTX 4090D 24G
 * CPU: AMD EPYC 9754
 * OS: Ubuntu 20.04
